@@ -29,7 +29,7 @@
         "jsftp"              : "latest",
         "iconv-lite"         : "latest",
         "dnode"              : "latest",
-        "memwatch"           : "latest"
+        "memwatch-next"      : "latest"
     },
     "devDependencies": {
         "grunt-cli"                 : "latest", 
